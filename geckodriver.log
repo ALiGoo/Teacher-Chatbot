@@ -1,0 +1,21 @@
+1541637163839	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.47fMbsaY8hFF"
+1541637165191	Marionette	INFO	Listening on port 33687
+1541637165246	Marionette	WARN	TLS certificate errors will be ignored for this session
+1541637173882	Marionette	INFO	Stopped listening on port 33687
+[Parent 7459, Gecko_IOThread] WARNING: pipe error (78): 連線被對方重設: file /build/firefox-4VfQCB/firefox-63.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+1541637625762	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.qhkXu1y0HUfy"
+1541637627200	Marionette	INFO	Listening on port 42165
+1541637627280	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 7876, Gecko_IOThread] WARNING: pipe error (78): 連線被對方重設: file /build/firefox-4VfQCB/firefox-63.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+1541637649879	Marionette	INFO	Stopped listening on port 42165
+1541637680783	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.iGQfiLEBgMPt"
+*** You are running in headless mode.
+1541637682090	Marionette	INFO	Listening on port 37081
+1541637682188	Marionette	WARN	TLS certificate errors will be ignored for this session
+1541637686546	Marionette	INFO	Stopped listening on port 37081
+[Parent 8143, Gecko_IOThread] WARNING: pipe error (65): 連線被對方重設: file /build/firefox-4VfQCB/firefox-63.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+1544443887570	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.aIki1DEgyoDh"
+*** You are running in headless mode.
+1544443888749	Marionette	INFO	Listening on port 46623
+1544443888782	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://i2.bahamut.com.tw/js/BH_topBar.js?v=1542705290, line 3: ReferenceError: Cookies is not defined
